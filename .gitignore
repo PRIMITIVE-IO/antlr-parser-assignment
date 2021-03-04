@@ -1,0 +1,12 @@
+.vs
+packages
+*/bin
+*/obj
+analysis.db
+.idea
+*.user
+GUI/publish
+GUI/GUI_TemporaryKey.pfx
+obj/Debug
+bin/
+obj
